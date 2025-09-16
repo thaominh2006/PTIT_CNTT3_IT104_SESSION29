@@ -1,0 +1,44 @@
+{
+  "product": [
+    {
+      "id": 1,
+      "product_name": "Laptop Dell Inspiron",
+      "image": "https://tse2.mm.bing.net/th/id/OIP.UmuMesQprL38DHPMzmF5oAHaE8?w=249&h=180&c=7&r=0&o=7&dpr=1.5&pid=1.7&rm=3",
+      "price": 18000000,
+      "quantity": 10,
+      "created_at": "2025-09-16"
+    },
+    {
+      "id": 2,
+      "product_name": "Chuột Logitech",
+      "image": "https://tse3.mm.bing.net/th/id/OIP.16KlFRjggAxFINRryQouKgHaHa?w=200&h=200&c=7&r=0&o=7&dpr=1.5&pid=1.7&rm=3",
+      "price": 450000,
+      "quantity": 50,
+      "created_at": "2025-09-15"
+    },
+    {
+      "id": 3,
+      "product_name": "Bàn phím cơ Keychron",
+      "image": "https://tse3.mm.bing.net/th/id/OIP.h4wUJC8m-gZ4UOIC4x-ouwHaHa?w=183&h=183&c=7&r=0&o=7&dpr=1.5&pid=1.7&rm=3",
+      "price": 2200000,
+      "quantity": 20,
+      "created_at": "2025-09-14"
+    },
+    {
+      "id": 4,
+      "product_name": "Màn hình Samsung 24 inch",
+      "image": "https://tse4.mm.bing.net/th/id/OIP.8ZOy1qlRkfkTmCEYnlltjwHaE8?w=297&h=198&c=7&r=0&o=7&dpr=1.5&pid=1.7&rm=3",
+      "price": 3500000,
+      "quantity": 15,
+      "created_at": "2025-09-13"
+    },
+    {
+      "id": 5,
+      "product_name": "Tai nghe Sony WH-1000XM5",
+      "image": "https://tse2.mm.bing.net/th/id/OIP.irHDO8CiJitIbvD1vYuR7QHaHa?w=195&h=195&c=7&r=0&o=7&dpr=1.5&pid=1.7&rm=3",
+      "price": 7500000,
+      "quantity": 8,
+      "created_at": "2025-09-12"
+    }
+  ]
+}
